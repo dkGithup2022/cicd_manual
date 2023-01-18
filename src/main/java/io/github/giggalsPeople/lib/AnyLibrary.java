@@ -5,7 +5,7 @@ public class AnyLibrary {
     private static final String HW = "HELLO WORLD";
 
     public static String helloWorld() {
-        System.out.println("changed4");
+        System.out.println("changed5");
         return HW;
     }
 }
